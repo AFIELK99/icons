@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":"phantom_center"},"geometry":{"type":"Point","coordinates":[0,0]}},{"type":"Feature","properties":{"id":"phantom_west"},"geometry":{"type":"Point","coordinates":[-170,-60]}},{"type":"Feature","properties":{"id":"phantom_east"},"geometry":{"type":"Point","coordinates":[170,80]}}]}

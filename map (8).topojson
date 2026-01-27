@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"collection":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[0,0],"properties":{"id":"phantom_center"}},{"type":"Point","coordinates":[-170,-60],"properties":{"id":"phantom_west"}},{"type":"Point","coordinates":[170,80],"properties":{"id":"phantom_east"}}]}},"arcs":[],"bbox":[-170,-60,170,80]}
